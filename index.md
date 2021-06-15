@@ -9,3 +9,6 @@
 **Sol Cummings**, Sho Nakamura, Yasunobu Shimazaki.  
 IEEE International Geoscience and Remote Sensing Symposium, 2020.
 
+# Other
+- ABCI Interview (Japanese)  
+[link](https://abci.ai/ja/case-11/case-11.html)
