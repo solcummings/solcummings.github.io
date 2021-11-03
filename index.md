@@ -16,6 +16,12 @@ IEEE/CVF CVPR Workshops, 2021.
 IEEE International Geoscience and Remote Sensing Symposium, 2020.  
 [[link]](https://ieeexplore.ieee.org/abstract/document/9323857/)
 
-# Other
+# Non-technical Presentations
+- DigitalxADB: Geospatial Information Technology Solutions (Geographic Information System and Earth Observation) in ADB and Beyond  
+October 13, 2021
+[[link]](https://digitalx.adb.org/en/)
+
+# Interviews
 - Interview with ABCI (Japanese)  
 [[link]](https://abci.ai/ja/case-11/case-11.html)
+
