@@ -1,4 +1,6 @@
 # About Me
+My research interests are in computer vision and deep learning for remote sensing data.  
+
 ## Awards
 - **1st place** in the EARTHVISION2021 DynamicEarthNet Weakly-Supervised Multi-Class Change Detection Challenge at CVPRW 2021  
 [[repository]](https://github.com/solcummings/earthvision2021-weakly-supervised)
