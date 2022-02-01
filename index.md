@@ -21,7 +21,7 @@ IEEE International Geoscience and Remote Sensing Symposium, 2020.
 
 ## Invited Presentations
 - DigitalxADB: Geospatial Information Technology Solutions (Geographic Information System and Earth Observation) in ADB and Beyond  
-October 13, 2021  
+Asian Development Bank, October 13, 2021.  
 [[link]](https://digitalx.adb.org/en/)
 
 ## Interviews
