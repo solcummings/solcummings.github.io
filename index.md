@@ -24,6 +24,10 @@ IEEE International Geoscience and Remote Sensing Symposium, 2020.
 Asian Development Bank, October 13, 2021.  
 [[link]](https://digitalx.adb.org/en/)
 
+- EARTHVISION2021: DynamicEarthNet  
+CVPR Workshops, June 19, 2021.  
+[[link]](https://youtu.be/nrntHeY8vtg?t=11994)
+
 ## Interviews
 - Interview with ABCI (Japanese)  
 [[link]](https://abci.ai/ja/case-11/case-11.html)
