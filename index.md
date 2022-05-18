@@ -9,12 +9,17 @@ My research interests are in computer vision and deep learning for remote sensin
 [[repository]](https://github.com/solcummings/ntire2021-sar)
 
 ## Publications
-- NTIRE 2021 Multi-modal Aerial View Object Classification Challenge
+- Siamese Attention U-Net for Multi-Class Change Detection  
+**Sol Cummings**, Lukas Kondmann, Xiao Xiang Zhu.  
+IEEE International Geoscience and Remote Sensing Symposium, 2022.  
+[[link pending]]()
+
+- NTIRE 2021 Multi-modal Aerial View Object Classification Challenge  
 Jerrick Liu, Nathan Inkawhich, Oliver Nina, Radu Timofte, Sahil Jain, Bob Lee, Yuru Duan, Wei Wei, Lei Zhang, Songzheng Xu, Yuxuan Sun, Jiaqi Tang, Xueli Geng, Mengru Ma, Gongzhe Li, Xueli Geng, Huanqia Cai, Chengxue Cai, **Sol Cummings**, Casian Miron, Alexandru Pasarica, Cheng-Yen Yang, Hung-Min Hsu, Jiarui Cai, Jie Mei, Chia-Ying Yeh, Jenq-Neng Hwang, Michael Xin, Zhongkai Shangguan, Zihe Zheng, Xu Yifei, Lehan Yang, Kele Xu, Min Feng.  
 IEEE/CVF CVPR Workshops, 2021.  
-[[link]](https://arxiv.org/abs/2107.01189)
+[[link]](https://arxiv.org/abs/2107.01189v1)
 
-- Building Change Detection Using Modified Siamese Neural Networks
+- Building Change Detection Using Modified Siamese Neural Networks  
 **Sol Cummings**, Sho Nakamura, Yasunobu Shimazaki.  
 IEEE International Geoscience and Remote Sensing Symposium, 2020.  
 [[link]](https://ieeexplore.ieee.org/abstract/document/9323857/)
