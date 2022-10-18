@@ -12,7 +12,7 @@ My research interests are in computer vision and deep learning for remote sensin
 - Siamese Attention U-Net for Multi-Class Change Detection  
 **Sol Cummings**, Lukas Kondmann, Xiao Xiang Zhu.  
 IEEE International Geoscience and Remote Sensing Symposium, 2022.  
-[[link pending]]()
+[[link]](https://ieeexplore.ieee.org/abstract/document/9884834/)
 
 - NTIRE 2021 Multi-modal Aerial View Object Classification Challenge  
 Jerrick Liu, Nathan Inkawhich, Oliver Nina, Radu Timofte, Sahil Jain, Bob Lee, Yuru Duan, Wei Wei, Lei Zhang, Songzheng Xu, Yuxuan Sun, Jiaqi Tang, Xueli Geng, Mengru Ma, Gongzhe Li, Xueli Geng, Huanqia Cai, Chengxue Cai, **Sol Cummings**, Casian Miron, Alexandru Pasarica, Cheng-Yen Yang, Hung-Min Hsu, Jiarui Cai, Jie Mei, Chia-Ying Yeh, Jenq-Neng Hwang, Michael Xin, Zhongkai Shangguan, Zihe Zheng, Xu Yifei, Lehan Yang, Kele Xu, Min Feng.  
