@@ -4,3 +4,4 @@
 
 - **3rd place** in the NTIRE2021 Multi-modal Aerial View Object Classification Challenge - Track 1 (SAR) at CVPRW 2021  
 [[repository]](https://github.com/solcummings/ntire2021-sar)
+

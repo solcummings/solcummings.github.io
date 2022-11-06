@@ -1,11 +1,13 @@
 # About Me
 My research interests are in computer vision and deep learning for remote sensing data.
+
 ## Awards
 - **1st place** in the EARTHVISION2021 DynamicEarthNet Weakly-Supervised Multi-Class Change Detection Challenge at CVPRW 2021  
 [[repository]](https://github.com/solcummings/earthvision2021-weakly-supervised)
 
 - **3rd place** in the NTIRE2021 Multi-modal Aerial View Object Classification Challenge - Track 1 (SAR) at CVPRW 2021  
 [[repository]](https://github.com/solcummings/ntire2021-sar)
+
 ## Invited Presentations
 - DigitalxADB: Geospatial Information Technology Solutions (Geographic Information System and Earth Observation) in ADB and Beyond  
 Asian Development Bank, October 13, 2021.  
@@ -14,11 +16,13 @@ Asian Development Bank, October 13, 2021.
 - EARTHVISION2021: DynamicEarthNet  
 CVPR Workshops, June 19, 2021.  
 [[link]](https://youtu.be/nrntHeY8vtg?t=11994)
+
 ## Interviews
 - Interview with ABCI (Japanese)  
 [[link]](https://abci.ai/ja/case-11/case-11.html)
+
 ## Publications
-```tex
+```TeX
 @inproceedings{cummings2020_bui,
   author={Cummings, Sol and Nakamura, Sho and Shimazaki, Yasunobu},
   booktitle={IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium},

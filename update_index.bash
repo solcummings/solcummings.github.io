@@ -11,6 +11,6 @@ cat \
 
 # add publications from bib file
 echo '## Publications
-```tex' >> ./$out_file
+```TeX' >> ./$out_file
 cat ./bib/egbib.bib >> ./$out_file
 echo '```' >> ./$out_file
