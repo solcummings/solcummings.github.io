@@ -14,3 +14,5 @@ echo '## Publications
 ```TeX' >> ./$out_file
 cat ./bib/egbib.bib >> ./$out_file
 echo '```' >> ./$out_file
+
+echo "Completed updating $out_file"

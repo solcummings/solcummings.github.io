@@ -1,0 +1,12 @@
+name: Update Action
+run-name: ${{ github.repository }} index update
+on: [push]
+jobs:
+  Update-Index:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "This job is automatically triggered by a ${{ github.event_name }} event for branch ${{ github.ref }} in repo ${{ github.repository }}."
+      - name: Run update script
+        run: ./update_index.bash
+        shell: bash
+      - run: echo "This job's status is ${{ job.status }}."
