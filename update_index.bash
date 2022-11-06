@@ -1,4 +1,4 @@
-#!/bin/bash/
+#!/bin/bash
 
 out_file=index.md
 
