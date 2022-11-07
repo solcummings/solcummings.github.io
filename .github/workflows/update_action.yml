@@ -13,9 +13,7 @@ jobs:
       - name: Run update script
         run: ./update_index.bash
         shell: bash
-      - name: Modify files
-        uses: ./index.md
-      - name: Add, commit and push changes
+      - name: Add, commit, and push changes
         run: |
           git add -A
           git commit -m "Updated index"
