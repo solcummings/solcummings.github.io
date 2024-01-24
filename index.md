@@ -23,13 +23,13 @@ CVPR Workshops, June 19, 2021.
 
 ## Publications
 ```TeX
-@inproceedings{cummings2020_bui,
-  author={Cummings, Sol and Nakamura, Sho and Shimazaki, Yasunobu},
-  booktitle={IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium},
-  title={Building Change Detection Using Modified Siamese Neural Networks},
-  year={2020},
-  pages={672-675},
-  doi={10.1109/IGARSS39084.2020.9323857},
+@inproceedings{cummings2022_sia,
+  author={Cummings, Sol and Kondmann, Lukas and Zhu, Xiao Xiang},
+  booktitle={IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium},
+  title={Siamese Attention U-Net for Multi-Class Change Detection},
+  year={2022},
+  pages={211-214},
+  doi={10.1109/IGARSS46834.2022.9884834},
 }
 
 @article{liu2021_nti,
@@ -41,13 +41,14 @@ CVPR Workshops, June 19, 2021.
   url={https://arxiv.org/abs/2107.01189},
 }
 
-@inproceedings{cummings2022_sia,
-  author={Cummings, Sol and Kondmann, Lukas and Zhu, Xiao Xiang},
-  booktitle={IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium},
-  title={Siamese Attention U-Net for Multi-Class Change Detection},
-  year={2022},
-  pages={211-214},
-  doi={10.1109/IGARSS46834.2022.9884834},
+@inproceedings{cummings2020_bui,
+  author={Cummings, Sol and Nakamura, Sho and Shimazaki, Yasunobu},
+  booktitle={IGARSS 2020 - 2020 IEEE International Geoscience and Remote Sensing Symposium},
+  title={Building Change Detection Using Modified Siamese Neural Networks},
+  year={2020},
+  pages={672-675},
+  doi={10.1109/IGARSS39084.2020.9323857},
 }
+
 
 ```
