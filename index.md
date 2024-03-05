@@ -23,6 +23,16 @@ CVPR Workshops, June 19, 2021.
 
 ## Publications
 ```TeX
+@article{kato2024_pol,
+  author={Kato, Shunya and Saito, Masaki and Ishiguro, Katsuhiko and Cummings, Sol},
+  journal={IEEE Geoscience and Remote Sensing Letters},
+  title={PolMERLIN: Self-Supervised Polarimetric Complex SAR Image Despeckling With Masked Networks},
+  year={2024},
+  volume={21},
+  pages={1-5},
+  doi={10.1109/LGRS.2024.3352544},
+}
+
 @inproceedings{cummings2022_sia,
   author={Cummings, Sol and Kondmann, Lukas and Zhu, Xiao Xiang},
   booktitle={IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium},
@@ -49,6 +59,5 @@ CVPR Workshops, June 19, 2021.
   pages={672-675},
   doi={10.1109/IGARSS39084.2020.9323857},
 }
-
 
 ```
